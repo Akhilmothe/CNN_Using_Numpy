@@ -1,1 +1,1 @@
-# Digit_Classification_Using_DL
+# CNN_Using_Numpy
